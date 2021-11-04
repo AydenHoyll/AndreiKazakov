@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AndreiKazakovx
+- 👋 Hi, I’m @AndreiKazakov
 - 👀 I’m interested in Frontend web-developement
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on any beginner JavaScript coding projects
